@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Deskripsi Proyek
+## Deskripsi Proyek
 Proyek ini mengusung konsep **Smart AC** yang bertujuan untuk meningkatkan efisiensi energi. Sistem dirancang untuk mengontrol status AC (aktif/non-aktif) serta mengatur tingkatan AC secara otomatis berdasarkan beberapa parameter utama:
 
 1. **Gas di Ruangan:** Dibaca melalui sensor gas. Parameter ini yang paling diprioritaskan.
@@ -20,7 +20,7 @@ Proyek ini mengusung konsep **Smart AC** yang bertujuan untuk meningkatkan efisi
 
 ---
 
-## 📺 Dokumentasi Video
+## Dokumentasi Video
 Berikut adalah penjelasan  mengenai fitur, cara kerja, dan demonstrasi penggunaan proyek ini.
 
 [](https://youtu.be/Twh-giwZQy4)
