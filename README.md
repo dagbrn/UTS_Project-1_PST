@@ -21,9 +21,9 @@ Proyek ini mengusung konsep **Smart AC** yang bertujuan untuk meningkatkan efisi
 ---
 
 ## Dokumentasi Video
-Berikut adalah penjelasan  mengenai fitur, cara kerja, dan demonstrasi penggunaan proyek ini.
+Berikut adalah penjelasan  mengenai fitur, cara kerja, dan demonstrasi penggunaan proyek ini. **Klik** thumbnail dibawah ini.
 
-[](https://youtu.be/Twh-giwZQy4)
+[![Demo Video](https://img.youtube.com/vi/Twh-giwZQy4/0.jpg)](https://www.youtube.com/watch?v=Twh-giwZQy4)
 
 ---
 
